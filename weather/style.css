@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url("https://imgs.search.brave.com/HWQVoDG0P8U3p2hO1c0ApXmJedQ1-zh7LxoHnS6uXoI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDEwMTU0/NDExLmpwZw");
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.weather-container {
+    text-align: center;
+    padding: 70px;
+    border-radius: 400px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 1);
+}
